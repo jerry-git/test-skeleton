@@ -1,0 +1,15 @@
+# Byte-compiled
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Coverage
+.coverage
+
+# Misc
+.idea/*
+dist/*
+test_skeleton.egg-info/*
+.cache/*
+*.DS_Store
+.eggs/*
