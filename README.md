@@ -1,5 +1,8 @@
 # test-skeleton
 
+[![Build Status](https://travis-ci.org/jerry-git/test-skeleton.svg?branch=master)](https://travis-ci.org/jerry-git/test-skeleton)
+[![Pypi](https://img.shields.io/pypi/v/test-skeleton.svg)](https://pypi.python.org/pypi/test-skeleton)
+
 A tool for creating a skeleton for Python unit tests based on source code.
 
 Basically, this is a tool for non-TDD development. Use TDD if possible.
