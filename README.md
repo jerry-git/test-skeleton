@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/jerry-git/test-skeleton.svg?branch=master)](https://travis-ci.org/jerry-git/test-skeleton)
 [![Pypi](https://img.shields.io/pypi/v/test-skeleton.svg)](https://pypi.python.org/pypi/test-skeleton)
+[![Py vers](https://img.shields.io/pypi/pyversions/test-skeleton.svg)](https://pypi.python.org/pypi/test-skeleton)
 
 A tool for creating a skeleton for Python unit tests based on source code.
 
